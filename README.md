@@ -1,4 +1,4 @@
-# 🧠 MedGAN
+#  MedGAN
 
 ### Synthetic Brain MRI Generation using Conditional GANs for Brain Tumor Data Augmentation
 
@@ -6,7 +6,7 @@
 
 ---
 
-# 📖 Overview
+#  Overview
 
 Medical imaging datasets are often small, expensive to annotate, and restricted due to patient privacy regulations. These limitations make it difficult to train robust deep learning models, especially for rare diseases and underrepresented tumor classes.
 
