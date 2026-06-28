@@ -25,7 +25,7 @@ The effectiveness of the generated images is validated by comparing the performa
 
 ---
 
-# 🎯 Problem Statement
+# Problem Statement
 
 Brain tumor diagnosis using MRI scans has become one of the most important applications of Artificial Intelligence in healthcare.
 
@@ -41,7 +41,7 @@ MedGAN addresses these challenges by generating realistic synthetic MRI images t
 
 ---
 
-# 🎯 Objectives
+#  Objectives
 
 The primary objectives of this project are:
 
